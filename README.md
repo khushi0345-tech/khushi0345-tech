@@ -1,55 +1,78 @@
-Hi 👋 I'm Khushi Garg
+# Hi 👋 I'm Khushi Garg
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎓 Electronics and Communication Engineering student at Thapar Institute of Engineering and Technology.
 
-🎓 Electronics and Communication Engineering Student
+I'm passionate about **Embedded Systems**, **RTL Design**, and **FPGA Development**. I enjoy building digital hardware using Verilog HDL and continuously learning about ARM-based embedded systems and computer architecture.
 
-💻 Interested in
-• RTL Design
-• Embedded Systems
-• FPGA Development
-• ARM Architecture
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 👩‍💻 About Me
 
-🛠️ Languages
-• Verilog HDL
-• C/C++
-• Python
-• ARM Assembly
+- 🎓 B.E. in Electronics and Communication Engineering
+- 💡 Interested in RTL Design, Embedded Systems and FPGA Development
+- 🌱 Currently learning SystemVerilog, ARM Architecture and Digital Design
+- 🎯 Seeking opportunities in RTL Design and Embedded Systems
 
-⚙️ Tools
-• Vivado
-• Keil
-• MATLAB
-• CST Studio
-• Tanner EDA
+---
 
-🔧 Hardware
-• Spartan-6 FPGA
-• ESP32
-• Arduino Uno
+## 🛠️ Technical Skills
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Languages
 
-🚀 Featured Projects
-• UART Transmitter (FSM)
-• Synchronous FIFO
-• 4-bit ALU
-• Underground Cable Fault Detection
-• Comparator
-• Priority Encoder
+- Verilog HDL
+- C
+- C++
+- Python
+- ARM Assembly
+- Oracle SQL
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Tools
 
-🌱 Currently Learning
-• SystemVerilog
-• ARM Cortex-M
-• Verification
-• FPGA Design Flow
+- Xilinx Vivado
+- Keil uVision
+- MATLAB
+- CST Studio Suite
+- Tanner EDA
+- Git
+- GitHub
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Hardware Platforms
 
-📫 Contact
+- Spartan-6 FPGA
+- ESP32
+- Arduino Uno
+
+---
+
+## 🚀 Current Projects
+
+- UART Transmitter & Receiver
+- 4-bit ALU
+- Priority Encoder
+- Comparator
+- Multiplexer
+- Demultiplexer
+- Encoder
+- Decoder
+- Underground Cable Fault Detector
+
+---
+
+## 📚 Areas of Interest
+
+- RTL Design
+- Embedded Systems
+- FPGA Design
+- ARM Architecture
+- Computer Architecture
+- Digital Electronics
+
+---
+
+## 📫 Connect with Me
 
 📧 kgarg3_be23@thapar.edu
+
+🔗 LinkedIn: (Add your LinkedIn URL)
+
+💻 GitHub: https://github.com/khushi0345-tech
