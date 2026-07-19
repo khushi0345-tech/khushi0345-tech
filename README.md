@@ -73,6 +73,4 @@ I'm passionate about **Embedded Systems**, **RTL Design**, and **FPGA Developmen
 
 📧 kgarg3_be23@thapar.edu
 
-🔗 LinkedIn: (Add your LinkedIn URL)
-
 💻 GitHub: https://github.com/khushi0345-tech
