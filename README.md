@@ -1,107 +1,55 @@
-<h1 align="center">Hi 👋, I'm Khushi Garg</h1>
+Hi 👋 I'm Khushi Garg
 
-<h3 align="center">ECE Student | Embedded Systems | RTL Design | FPGA | ARM Architecture</h3>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🎓 Electronics and Communication Engineering Student
 
-## 👩‍💻 About Me
+💻 Interested in
+• RTL Design
+• Embedded Systems
+• FPGA Development
+• ARM Architecture
 
-🎓 Electronics and Communication Engineering student at **Thapar Institute of Engineering and Technology**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💡 Passionate about **Embedded Systems**, **RTL Design**, **Digital Design**, and **FPGA Development**
+🛠️ Languages
+• Verilog HDL
+• C/C++
+• Python
+• ARM Assembly
 
-🔬 Currently working as a **Research Intern at Central Electronics Limited (CEL)**, learning microwave antenna design and RF communication systems.
+⚙️ Tools
+• Vivado
+• Keil
+• MATLAB
+• CST Studio
+• Tanner EDA
 
-🌱 Currently exploring:
-- RTL Design
-- Embedded Systems
-- ARM Architecture
-- FPGA Development
-- SystemVerilog
-- Computer Architecture
+🔧 Hardware
+• Spartan-6 FPGA
+• ESP32
+• Arduino Uno
 
-🎯 Looking for opportunities in **RTL Design**, **Embedded Systems**, and **FPGA Design**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+🚀 Featured Projects
+• UART Transmitter (FSM)
+• Synchronous FIFO
+• 4-bit ALU
+• Underground Cable Fault Detection
+• Comparator
+• Priority Encoder
 
-## 🛠️ Technical Skills
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Languages
+🌱 Currently Learning
+• SystemVerilog
+• ARM Cortex-M
+• Verification
+• FPGA Design Flow
 
-- Verilog HDL
-- C
-- C++
-- Python
-- ARM Assembly
-- Oracle SQL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Hardware & Embedded
+📫 Contact
 
-- RTL Design
-- FPGA Development
-- Embedded Systems
-- Digital Electronics
-
-### Tools
-
-- Vivado
-- Keil uVision
-- MATLAB
-- CST Studio Suite
-- Tanner EDA
-- Git
-- GitHub
-
-### Hardware Platforms
-
-- Arduino Uno
-- ESP32
-- Spartan-6 FPGA
-
----
-
-## 🚀 Featured Projects
-
-- UART Transmitter (FSM-Based)
-- Synchronous FIFO
-- 4-bit ALU
-- 4-bit Comparator
-- Shift Register
-- Up Counter
-- Priority Encoder
-- Multiplexer / Demultiplexer
-- Underground Cable Fault Detection & Monitoring System
-
----
-
-## 📚 Areas of Interest
-
-- Embedded Systems
-- RTL Design
-- FPGA Design
-- ARM Architecture
-- Digital Logic Design
-- Computer Architecture
-- VLSI
-
----
-
-## 📈 Currently Learning
-
-- SystemVerilog
-- Verification Fundamentals
-- ARM Cortex-M Architecture
-- FPGA Design Flow
-- Digital System Design
-
----
-
-## 📫 Connect with Me
-
-📧 **kgarg3_be23@thapar.edu**
-
-💼 LinkedIn: *(Add your LinkedIn profile URL)*
-
-💻 GitHub: https://github.com/khushi0345-tech
-
----
+📧 kgarg3_be23@thapar.edu
