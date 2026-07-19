@@ -1,18 +1,26 @@
-# Hi 👋 I'm Khushi Garg
+<h1 align="center">Hi 👋, I'm Khushi Garg</h1>
 
-🎓 Electronics and Communication Engineering student at Thapar Institute of Engineering and Technology.
-
-I'm passionate about **Embedded Systems**, **RTL Design**, and **FPGA Development**. I enjoy building digital hardware using Verilog HDL and continuously learning about ARM-based embedded systems and computer architecture.
+<h3 align="center">ECE Student | Embedded Systems | RTL Design | FPGA | ARM Architecture</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. in Electronics and Communication Engineering
-- 💡 Interested in RTL Design, Embedded Systems and FPGA Development
-- 🌱 Currently learning SystemVerilog, ARM Architecture and Digital Design
-- 🔬 Research Intern at Central Electronics Limited (CEL)
-- 🎯 Seeking opportunities in RTL Design and Embedded Systems
+🎓 Electronics and Communication Engineering student at **Thapar Institute of Engineering and Technology**
+
+💡 Passionate about **Embedded Systems**, **RTL Design**, **Digital Design**, and **FPGA Development**
+
+🔬 Currently working as a **Research Intern at Central Electronics Limited (CEL)**, learning microwave antenna design and RF communication systems.
+
+🌱 Currently exploring:
+- RTL Design
+- Embedded Systems
+- ARM Architecture
+- FPGA Development
+- SystemVerilog
+- Computer Architecture
+
+🎯 Looking for opportunities in **RTL Design**, **Embedded Systems**, and **FPGA Design**
 
 ---
 
@@ -27,9 +35,16 @@ I'm passionate about **Embedded Systems**, **RTL Design**, and **FPGA Developmen
 - ARM Assembly
 - Oracle SQL
 
+### Hardware & Embedded
+
+- RTL Design
+- FPGA Development
+- Embedded Systems
+- Digital Electronics
+
 ### Tools
 
-- Xilinx Vivado
+- Vivado
 - Keil uVision
 - MATLAB
 - CST Studio Suite
@@ -39,38 +54,54 @@ I'm passionate about **Embedded Systems**, **RTL Design**, and **FPGA Developmen
 
 ### Hardware Platforms
 
-- Spartan-6 FPGA
-- ESP32
 - Arduino Uno
+- ESP32
+- Spartan-6 FPGA
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-- UART Transmitter & Receiver
+- UART Transmitter (FSM-Based)
+- Synchronous FIFO
 - 4-bit ALU
+- 4-bit Comparator
+- Shift Register
+- Up Counter
 - Priority Encoder
-- Comparator
-- Multiplexer
-- Demultiplexer
-- Encoder
-- Decoder
+- Multiplexer / Demultiplexer
+- Underground Cable Fault Detection & Monitoring System
 
 ---
 
 ## 📚 Areas of Interest
 
-- RTL Design
 - Embedded Systems
+- RTL Design
 - FPGA Design
 - ARM Architecture
+- Digital Logic Design
 - Computer Architecture
-- Digital Electronics
+- VLSI
+
+---
+
+## 📈 Currently Learning
+
+- SystemVerilog
+- Verification Fundamentals
+- ARM Cortex-M Architecture
+- FPGA Design Flow
+- Digital System Design
 
 ---
 
 ## 📫 Connect with Me
 
-📧 kgarg3_be23@thapar.edu
+📧 **kgarg3_be23@thapar.edu**
+
+💼 LinkedIn: *(Add your LinkedIn profile URL)*
 
 💻 GitHub: https://github.com/khushi0345-tech
+
+---
